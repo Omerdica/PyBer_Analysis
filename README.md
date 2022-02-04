@@ -7,8 +7,8 @@ As a new employee at PyBer we are given a new project to help better understand 
 
 While looking at the pyber_summary we can see that Urban had the highest amount of earnings out of the three city types. This has to do with the fact that Urban has the most drivers, almost five time the amount of drivers of Suburban city type and nearly thirty times more drivers then Rural. However; when we start to compare the the Avergae Fare Per Ride we see that both Rural and Suburban were charging more per ride and per driver compared to the Urban which had the lowest amount for both Ride and Driver. 
 
-![Code1]("Analysis/Pyber_charge.png")
+![Code1](Analysis/Pyber_charge.png)
 
 As we look at the data above it gives us more of clarification to better understand the Pyber Fare Summary chart and how it seems that Urban is the money making area for the PyBer Ride-Sharing App.
 
-![Code1]("Analysis/Pyber_fare_summary.png")
+![Code1](Analysis/Pyber_fare_summary.png)
