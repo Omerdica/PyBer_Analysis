@@ -11,4 +11,4 @@ While looking at the pyber_summary we can see that Urban had the highest amount 
 
 As we look at the data above it gives us more of clarification to better understand the Pyber Fare Summary chart and how it seems that Urban is the money making area for the PyBer Ride-Sharing App.
 
-![Code1](Analysis/Pyber_fare_summary.png)
+![Code1](Analysis/PyBer_fare_summary.png)
