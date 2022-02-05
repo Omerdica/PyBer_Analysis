@@ -9,7 +9,7 @@ While looking at the PyBer Fare Summary Chart we can see that Urban had the high
 
 ![Code1](Analysis/PyBer_fare_summary.png)
 
-However; when we start to compare the the Avergae Fare Per Ride we see that both Rural and Suburban were charging more per ride and per driver compared to the Urban which had the lowest amount for both Ride and Driver. The data in fare summary gives us more of clarification to better understand the Pyber Fare Summary chart and how the Urban is the money making area for the PyBer Ride-Sharing App.
+However, when we start to compare the the Avergae Fare Per Ride we see that both Rural and Suburban were charging more per ride and per driver compared to the Urban which had the lowest amount for both Ride and Driver. The data in fare summary gives us more of clarification to better understand the Pyber Fare Summary chart and how the Urban is the money making area for the PyBer Ride-Sharing App.
 
 ![Code1](Analysis/Pyber_charge.png)
 
